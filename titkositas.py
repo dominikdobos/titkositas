@@ -1,5 +1,5 @@
-ABC = "ABCDEFGHIJKLMNOPQRSTUVWXYZ,.:?! "
-titkosABC = "XYZABCDEFGHIJKLMNOPQRSTUVW,.:?! "
+ABC = "abcdefghjklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ,.:?! "
+titkosABC = "xyzXYZabcdefghjklmnopqrstuvwABCDEFGHIJKLMNOPQRSTUVW,.:?! "
 
 
 def titkosit():
